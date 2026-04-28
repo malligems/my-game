@@ -7,7 +7,7 @@ A simple and interactive **Brick Breaker Game** built using HTML, CSS, and JavaS
 ## 🎮 Demo
 
 🔗 Live Game:
-https://malligems/brick-breaker/
+http://amzn-game-bricks-3.s3-website.ap-south-1.amazonaws.com
 
 ---
 
